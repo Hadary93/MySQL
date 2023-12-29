@@ -1,11 +1,9 @@
-# Project Title
-
-MySQL_LIFE
+## MySQL_LIFE
 
 ## Table of Contents
 
 - [Enhanced Entity-Relationship Diagram](#EER)
-- [EER to database] (#EER to database)
+- [EER to Database](#ToDatabase)
 - [Random Queries](#Random)
 - [Target Queries](#Target)
 - [How to Replicate](#Replicate)
@@ -15,7 +13,7 @@ MySQL_LIFE
 ![EER of LIFE sample](Images/LIFE.png)
 
 
-## EER to database
+## To Database
 
 LIFE.sql file have the necessary commands to create a database as the EER and fill it with random infromation.
 
